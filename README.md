@@ -45,3 +45,7 @@ In addition, you will need a USB cable, keycaps, etc.
 <br>
 この他に、USBケーブル、キーキャップ等が必要です。
 <br>
+
+## 3D Print case
+
+https://github.com/telzo2000/cool836qalble2/tree/main/cool836qalble2_case_design
