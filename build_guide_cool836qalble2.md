@@ -8,9 +8,6 @@
 
 [Here](https://github.com/telzo2000/cool836qalble/tree/main/firmware/cool836qalble2)
 
-<br>
-
-[remap](https://remap-keys.app/catalog/FEmXx8GyuKYuJ5JSfcQG)
 
 <br>
 
