@@ -6,7 +6,7 @@
 
 ###  QMK_FIRMWARE
 
-[Here](https://github.com/telzo2000/cool836qalble/tree/main/firmware/cool836qalble)
+[Here](https://github.com/telzo2000/cool836qalble/tree/main/firmware/cool836qalble2)
 
 <br>
 
@@ -63,6 +63,7 @@ After soldering, use nippers to cut off the protruding legs.
 はんだ付けが終わったら、はみ出ている足をニッパーで切り取ってください。
 <br>
 
+![](img/img00004.jpg)
 
 [８倍速　Diodeハンダ付け動画](https://youtu.be/Yaodh2-XxV4)
 
@@ -88,56 +89,34 @@ Conthrough specifications are recommended.
 コンスルーの仕様を推奨します。
 <br>
 <br>
-A 12-pin or 13-pin connector is required. Even with 12 pins, there is no problem in use by inserting it closer to the USB-C terminal side as shown in the image.
+A 13-pin connector is required.
 <br>
-コンスルーは12ピンまたは13ピンが必要です。12ピンでも画像のようにUSB-C端子側に寄せて差し込むことで、使用上、問題ありません。
+コンスルーは13ピンが必要です。
 <br>
-![](img/img00015.jpg)
-![](img/img00016.jpg)
+
 
 Please take a look at the image below and pay attention to the orientation of the Ble Micro Pro.
 <br>
 下の画像を見て、Ble Micro Proの向きに気を付けて装着してください。
 <br>
-![](img/img00017.jpg)
-![](img/img00018.jpg)
+
+![](img/img00001.jpg)
+
 
 
 ### 4 Soldering the battery board
 
-Assemble the battery board according to the supplier's instructions.
 <br>
-購入先の説明に沿って、電池基板を組み立ててください。
+Solder the battery holder to the PCB as shown in the image below.
 <br>
-<br>
-Prepare two pin sockets with one pin.
-<br>
-ピンソケットを１ピン分にしたものを２つ用意してください。
-<br>
-<br>
-Solder the pin sockets to the PCB as shown in the image below.
-<br>
-下の画像のように、ピンソケットをPCBにはんだ付けしてください。
-<br>
-![](img/img00019.jpg)
-
-Place the battery board and solder it. Leave some space between it and the PCB, referring to the image below.
-<br>
-電池基板を載せて、はんだ付けをしてください。下の画像を参考にして、PCBとの間をやや空けておいてください。
+下の画像のように、電池ホルダーをPCBにはんだ付けしてください。
 <br>
 
-![](img/img00021.jpg)
+![](img/img00002.jpg)
+z
+<br>
+<br>
 
-![](img/img00022.jpg)
-
-![](img/img00023.jpg)
-
-<br>
-Keep the switch on the battery board ON. It's fragile, so be careful.
-<br>
-電池基板のスイッチをONにしておいてください。壊れやすいので、注意が必要です。
-<br>
-<br>
 
 ### 5 Soldering the power switch
 
@@ -145,15 +124,18 @@ Solder the horizontal slide switch as shown in the image below.
 <br>
 下の画像のように、水平スライドスイッチをはんだ付けしてください。
 <br>
-![](img/img00024.jpg)
 
-![](img/img00025.jpg)
-
-![](img/img00026.jpg)
+![](img/img00003.jpg)
 
 <br>
 
 ### 6 Instorlling QMK＿Firmware on Ble Micro pro
+
+The following is from cool836qalble. It is basically the same for cool836qalble2, so please refer to it.
+<br>
+以下は、cool836qalbleのものです。cool836qalble２でも、基本的に同じですので、参考にしてください。
+<br>
+<br>
 
 Connect Ble Micro pro and PC with cable.
 <br>
