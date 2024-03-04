@@ -212,9 +212,9 @@ You will be asked to connect, so do the same as before.
 <br>
 ![](img/img00012.png)
 
-config.json is requested. Download the config.json [here](https://github.com/telzo2000/cool836qalble/tree/main/firmware/cool836qalble2) and use it.
+config.json is requested. Download the config.json [here](https://github.com/telzo2000/cool836qalble2/tree/main/firmware/cool836qalble2) and use it.
 <br>
-config.jsonが要求されます。[ここ](https://github.com/telzo2000/cool836qalble/tree/main/firmware/cool836qalble2)にあるconfig.jsonをダウンロードして、使用してください。
+config.jsonが要求されます。[ここ](https://github.com/telzo2000/cool836qalble2/tree/main/firmware/cool836qalble2)にあるconfig.jsonをダウンロードして、使用してください。
 <br>
 <br>
 Congratulations. The second stage is over.
