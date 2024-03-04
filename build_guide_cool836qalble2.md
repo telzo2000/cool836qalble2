@@ -79,7 +79,38 @@ Solder the switch sockets on the back side.
 
 <br><br>
 
-### 3 Mounting the Ble Micro Pro
+### 3 Soldering the capacitor
+
+
+
+Solder the [capacitor](https://akizukidenshi.com/catalog/g/gP-02151/).
+<br>
+[コンデンサー](https://akizukidenshi.com/catalog/g/gP-02151/)をハンダ付けします。
+<br>
+
+First, apply solder to the terminal on one side. Then, place the capacitor, melt the solder, and fix it.
+<br>
+最初に、片側の端子にハンダを盛ります。そして、コンデサーを置き、ハンダを溶かして、固定します。
+<br>
+
+Next, melt and pour solder into the other terminal and attach the capacitor. Please fix it.
+<br>
+次に、もう片側の端子にハンダを溶かして、流し込んで、コンデンサーを。固定してください。
+<br>
+<br>
+
+
+### 4 Soldering the slide switch
+
+![](img/img00003.jpg)
+
+Insert the [slide switch](https://shop.yushakobo.jp/products/5624?variant=45044666007783) from the back side of the PCB and solder the front side. Please remove the protruding legs.
+<br>
+[スライドスイッチ](https://shop.yushakobo.jp/products/5624?variant=45044666007783)はPCBの裏面から挿入して、表面をハンダ付けします。はみ出た足は、切り取ってください。
+<br>
+
+
+### 5 Mounting the Ble Micro Pro
 
 Conthrough specifications are recommended.
 <br>
@@ -102,7 +133,7 @@ Please take a look at the image below and pay attention to the orientation of th
 
 
 
-### 4 Soldering the battery board
+### 6 Soldering the battery board
 
 <br>
 
@@ -118,7 +149,18 @@ z
 <br>
 
 
-### 5 Soldering the joystick
+
+
+
+### 7 (Option) Solering the reset switch
+
+
+Actually, it's not necessary. If you are an cool836qalble2 and are trying to install a PRO micro without buying a Ble Micro Pro, you will need a reset switch.
+<br>
+
+実は必要ありません。もし、あなたがcool836qalble2なのに、Ble Micro Proをおごることをせずに、ただのpro micro取り付けようとするならば、リセットスイッチは必要でしょうね。
+
+### 8 Soldering the joystick
 
 Solder the [joystick](https://akizukidenshi.com/catalog/g/g115233/) as shown in the image below.
 <br>
@@ -130,11 +172,10 @@ Solder the [joystick](https://akizukidenshi.com/catalog/g/g115233/) as shown in 
 
 <br>
 
-### 8 Soldering the Joystick (5 position switch)
 
 
 
-### 7 Instorlling QMK＿Firmware on Ble Micro pro
+### 9 Instorlling QMK＿Firmware on Ble Micro pro
 
 The following is from cool836qalble. It is basically the same for cool836qalble2, so please refer to it.
 <br>
