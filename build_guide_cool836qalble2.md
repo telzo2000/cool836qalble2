@@ -227,17 +227,31 @@ Congratulations. The second stage is over.
 
 ![](img/img00010.png)
 
-Select Remap from here.
+Select [Remap](https://qmk018.remap-keys.app/configure) from here.
 <br>
-ここからRemapを選択してください。
+
+ここから[Remap](https://qmk018.remap-keys.app/configure)を選択してください。
 <br>
 ![](img/img00013.png)
 
+
 ![](img/img00014.png)
+
+json file is requested, so select via.json located [here](https://github.com/telzo2000/cool836qalble2/tree/main/firmware/cool836qalble2).
+<br>
+
+jsonファイルが要求されますので、[ここ](https://github.com/telzo2000/cool836qalble2/tree/main/firmware/cool836qalble2)にある、via.jsonを選択してください。
+
+<br>
 Edit your favorite keymap.
 <br>
 自分好みのキーマップを編集してください。
 <br>
+
+![](img/img00020.png)
+
+<br>
+
 <br>
 congratulations. The third stage is finished. Firmware is complete.
 <br>
