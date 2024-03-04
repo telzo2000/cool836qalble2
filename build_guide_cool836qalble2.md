@@ -95,9 +95,10 @@ A 13-pin connector is required.
 <br>
 
 
-Please take a look at the image below and pay attention to the orientation of the Ble Micro Pro.
+Please take a look at the image below and pay attention to the orientation of the [Ble Micro Pro](https://shop.yushakobo.jp/products/ble-micro-pro/).
 <br>
-下の画像を見て、Ble Micro Proの向きに気を付けて装着してください。
+
+下の画像を見て、[Ble Micro Pro](https://shop.yushakobo.jp/products/ble-micro-pro/)の向きに気を付けて装着してください。
 <br>
 
 ![](img/img00001.jpg)
@@ -107,9 +108,11 @@ Please take a look at the image below and pay attention to the orientation of th
 ### 4 Soldering the battery board
 
 <br>
-Solder the battery holder to the PCB as shown in the image below.
+
+Solder [the battery holder](https://www.monotaro.com/p/8835/2765/) to the PCB as shown in the image below.
 <br>
-下の画像のように、電池ホルダーをPCBにはんだ付けしてください。
+
+下の画像のように、[電池ホルダー](https://www.monotaro.com/p/8835/2765/)をPCBにはんだ付けしてください。
 <br>
 
 ![](img/img00002.jpg)
@@ -118,18 +121,23 @@ z
 <br>
 
 
-### 5 Soldering the power switch
+### 5 Soldering the joystick
 
-Solder the horizontal slide switch as shown in the image below.
-<br>
-下の画像のように、水平スライドスイッチをはんだ付けしてください。
+Solder the [joystick](https://akizukidenshi.com/catalog/g/g115233/) as shown in the image below.
 <br>
 
-![](img/img00003.jpg)
+下の画像のように、[ジョイスティック](https://akizukidenshi.com/catalog/g/g115233/)をはんだ付けしてください。
+<br>
+
+![](img/img00007.jpg)
 
 <br>
 
-### 6 Instorlling QMK＿Firmware on Ble Micro pro
+### 8 Soldering the Joystick (5 position switch)
+
+
+
+### 7 Instorlling QMK＿Firmware on Ble Micro pro
 
 The following is from cool836qalble. It is basically the same for cool836qalble2, so please refer to it.
 <br>
@@ -251,7 +259,6 @@ Fix the magnets to the five dents inside the case with an adhesive or the like. 
 ケースの内側にある５つの凹みに磁石を接着剤などで固定します。トップケースに５箇所、ボトムケースに５箇所の合計10箇所です。
 極性に注意してください。トップケースとボトムケースが磁力で着くようにしてください。
 <br>
-![](img/img00027.jpg)
 
 As shown in the image below, attach rubber O-rings to the four protrusions on the bottom case. This makes it a gasket mount. You can do without the O-ring, but the PCB may move up and down inside the case.
 <br>
@@ -269,15 +276,31 @@ Switch Partsの向きに注意して、ボトムケースに取り付けてく�
 <br>
 ![](img/img00029.jpg)
 <br>
-Place the hole in the switch plate on the O-ring. And it is completed by covering the top case.
+Place the hole in the switch plate on the O-ring. 
 <br>
-スイッチプレートの穴をO-ringに載せます。このとき、水平スライドスイッチのつまみがSwitch Pasrtsの窪みに入るようにしてください。そして、トップケースを被せて完成です。
+スイッチプレートの穴をO-ringに載せます。このとき、水平スライドスイッチのつまみがSwitch Pasrtsの窪みに入るようにしてください。
 <br>
-![](img/img00030.jpg)
-![](img/img00031.jpg)
-![](img/img00032.jpg)
+<br>
+Place the knob on the joystick.
+<br>
+ジョイスティックにノブを載せてください。
+
+![](img/img00015.jpg)
+
+![](img/img00016.jpg)
+
+<br>
+Please cover with the top case.
+<br>
+トップケースを被せてください。
+
+![](img/img00017.jpg)
+
+
+
 
 Welcome to the world of 36 keys.
 <br>
 36キーの世界へようこそ。
 <br>
+![](img/img00018.jpg)
